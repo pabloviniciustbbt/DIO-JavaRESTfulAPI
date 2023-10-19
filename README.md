@@ -51,3 +51,9 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+
+
+
+## [Clique aqui para acessar a documentação da API (Swagger)](https://dio-javarestfulapi-prd.up.railway.app/swagger-ui.html)
+
+***OBS*** : Esta API ficará disponível no Railway por um período de tempo limitado, por se tratar de uma plataforma gratuita.
